@@ -1,0 +1,13 @@
+library(sf)
+library(sp)
+library(rgdal)
+library(raster)
+library(rgeos)
+library(dplyr)
+##
+library(classInt)
+library(RColorBrewer)
+library(ggplot2)
+library(ggmap)
+library(tmap)
+library(leaflet)
